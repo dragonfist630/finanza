@@ -88,24 +88,24 @@ export const howItWorksData = [
 // Testimonials Data
 export const testimonialsData = [
   {
-    name: "Sarah Johnson",
-    role: "Small Business Owner",
+    name: "Natalie Greene",
+    role: "Retail Store Owner",
     image: "https://randomuser.me/api/portraits/women/75.jpg",
     quote:
-      "Finanza has transformed how I manage my business finances. The AI insights have helped me identify cost-saving opportunities I never knew existed.",
+      "Finanza completely changed the way I handle my store’s finances. Its smart tools uncovered savings I never noticed before.",
   },
   {
-    name: "Michael Chen",
-    role: "Freelancer",
+    name: "Daniel Kim",
+    role: "Independent Consultant",
     image: "https://randomuser.me/api/portraits/men/75.jpg",
     quote:
-      "The receipt scanning feature saves me hours each month. Now I can focus on my work instead of manual data entry and expense tracking.",
+      "I used to spend so much time organizing receipts. Now with Finanza, everything’s sorted automatically, giving me more time to focus on my clients.",
   },
   {
-    name: "Emily Rodriguez",
-    role: "Financial Advisor",
+    name: "Sophia Martinez",
+    role: "Investment Strategist",
     image: "https://randomuser.me/api/portraits/women/74.jpg",
     quote:
-      "I recommend Finanza to all my clients. The multi-currency support and detailed analytics make it perfect for international investors.",
+      "I suggest Finanza to every investor I work with. Its detailed reports and currency flexibility make it an ideal solution for global portfolios.",
   },
 ];
